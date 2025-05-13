@@ -53,9 +53,14 @@ Essa experiência fortaleceu minha base como desenvolvedor backend e me deu mais
 - 🧩 Participação em projetos sociais com jiu-jitsu , unindo esporte e transformação de vida
 - 🌍 Hackathon da Paz Mundial - Unifor
 Fui integrante de uma equipe no Hackathon da Paz Mundial, evento que reuniu estudantes para criar soluções tecnológicas com impacto social e foco em paz, inclusão e direitos humanos. Foi uma experiência transformadora, onde trabalhei em equipe sob pressão e aprimorei minhas habilidades em resolução de problemas com tecnologia.
+ Oficinas de 5G, Huawei Cloud, AWS e Inteligência Artificial
+Participei de oficinas sobre 5G, Huawei Cloud, AWS e Inteligência Artificial, onde aprimorei conhecimentos técnicos em áreas inovadoras de alta demanda no mercado de tecnologia. Durante esses eventos, não só aprendi, mas também compartilhei meu conhecimento com outros alunos de diversas universidades, ministrando palestras sobre:
+Tecnologia 5G e seus impactos na conectividade global;
+Huawei Cloud e a integração com soluções em AWS;
+Aplicações de Inteligência Artificial em projetos reais.
 ---
 
-## 📫 Contato
+## 📫 Contato (85) 98502-4210
 
 - 📧 **Email:** brunojust36@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/raimundobruno](https://linkedin.com/in/raimundobruno)  
